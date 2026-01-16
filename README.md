@@ -1,11 +1,7 @@
 <div align="center">
   <h1>GDPO: Group Diffusion Policy Optimization</h1>
   <p>
-<<<<<<< HEAD
     A novel policy gradient reinforcement learning algorithm to extend GRPO to discrete diffusion. We feature efficient <strong>sequence level</strong> log probability estimation as well as training code for GDPO in standard reasoning and coding benchmarks.
-=======
-    A novel policy gradient reinforcement learning algorithm to extend GRPO to discrete diffusion. We feature efficient ** sequence level ** log probability estimation as well as training code for GDPO in standard reasoning and coding benchmarks.
->>>>>>> 94f9aa3 (GDPO Files)
   </p>
 </div>
 
@@ -80,7 +76,7 @@ If you find this work useful, please consider citing.
 
 ## Acknowledgments
 
-This work is built on top of the [D1 repository](https://github.com/ML-GSAI/d1) by Zhao et al. (2025). We gratefully acknowledge the original authors for their pioneering work on scaling reasoning in diffusion large language models via reinforcement learning. 
+This work is built on top of the [D1 repository](https://github.com/ML-GSAI/d1) by Zhao et al. (2025). The coding part also benefited from [open-r1](https://github.com/huggingface/open-r1) and [ml-diffucoder](https://github.com/apple/ml-diffucoder?tab=readme-ov-file). We gratefully acknowledge the original authors for their pioneering work on scaling reasoning in diffusion large language models via reinforcement learning. 
 
 ## License
 
